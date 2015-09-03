@@ -1,5 +1,5 @@
 {
-  "name": "flickerboxx",
+  "name": "Flickrboxx",
   "version": "0.0.1",
   "description": "React + Redux client for Flickr.",
   "main": "server.js",
@@ -26,6 +26,7 @@
     "react": "^0.13.3",
     "react-redux": "^2.0.0",
     "redux": "^2.0.0",
+    "redux-thunk": "^0.1.0",
     "uuid-js": "^0.7.5",
     "webpack-notifier": "^1.2.1"
   },

@@ -1,0 +1,13 @@
+:local(.clearfix):before,
+:local(.clearfix):after {
+    content: " ";
+    display: table;
+}
+
+:local(.clearfix):after {
+    clear: both;
+}
+
+:local(.clearfix) {
+    *zoom: 1;
+}

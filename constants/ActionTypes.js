@@ -1,0 +1,2 @@
+export const SEARCH_PENDING = 'SEARCH_PENDING';
+export const SEARCH_RESULT = 'SEARCH_RESULT';
